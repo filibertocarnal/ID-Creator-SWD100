@@ -1,0 +1,87 @@
+#headerOne {
+  position: absolute;
+  top: 0%;
+  left: 40%;
+}
+
+#form {
+  margin-top: 5%;
+  margin-left: 20%;
+  float: left;
+}
+
+#idCardLayout {
+  border-style: solid;
+  border-color: black;
+  background-color: #F5B7B1;
+  width: 500px;
+  height: 250px;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+}
+
+#postFullName {
+  position: absolute;
+  left: 35%;
+  top: -2%;
+  font-size: 28px;
+}
+#subIdInfo {
+  position: absolute;
+  left: 10%;
+  top: 45%;
+}
+
+#profileImage {
+  width: 100px;
+  height: 100px;
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+ 
+body {
+  background-color: #7FB3D5;
+}
+
+#btn {
+  margin-left: 35%;
+}
+
+/*#firstImageIcon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  left: 80px;
+  top: 36px;
+}
+
+#firstNameIconDescription {
+  visibility: hidden;
+}
+
+#firstImageIcon:hover #firstNameIconDescription {
+  visibility: visible;
+}*/
+
+
+#informationIcon {
+  height: 20px;
+  width: 20px;
+}
+
+/*#firstNameIconDescription {
+  visibility: hidden;
+}
+
+#firstNameIcon:hover #firstNameIconDescription {
+  visibility: visible;
+}
+
+#firstNameIconSecondDescription {
+  visibility: hidden;
+}
+
+#informationIcon:hover #firstNameIconSecondDescription {
+  visibility: visible;
+}*/
