@@ -4,7 +4,6 @@ function idCard() {
   var address = document.getElementById('addressId').value;
   
  document.getElementById('postFullName').innerHTML = firstName + " " + lastName;
-document.getElementById("postAddress").innerHTML = address;
   
 var age = parseInt(document.getElementById('ageId').value);
   
@@ -13,4 +12,5 @@ parseInt(document.getElementById('phoneNumber').value);
  
 document.getElementById('postPhoneNumber').innerHTML = "Phone Number: " + phoneNumber;
 document.getElementById('postAge').innerHTML = "Age: " + age;
+document.getElementById('postAddress').innerHTML = "Address: " + address;
 }
